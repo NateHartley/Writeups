@@ -1,6 +1,6 @@
 # Corridor
 
-Tags: Linux, web, IDOR, hash
+Tags: Linux, web, IDOR, hash <br>
 https://tryhackme.com/room/corridor
 
 ## Room Description
